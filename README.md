@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @JeremyNjonge
-- 👀 I’m interested in Data Science and machine learning.
+- 👀 I’m a Data Science Analyst.
 - 🌱 I’m currently learning Statistics as an undergrad at Kenyatta University.
 - 💞️ I’m looking to collaborate on machine learning projects.
+- Portfolio: www.carlsham.com
 - 📫 How to reach me jeremynjonge@gmail.com
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeremyNjonge
-- 👀 I’m a Data Science Analyst.
+- 👀 I’m a Data Scientist
 - 🌱 I’m currently learning Statistics as an undergrad at Kenyatta University.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - Portfolio: www.carlsham.com

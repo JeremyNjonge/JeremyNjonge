@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeremyNjonge
-- 👀 I’m a Data Scientist | Data Analyst | Digital Marketer
+- 👀 I’m a | Data Analyst | Project Manager
 - 🌱 I’m a Statistics & Applied Mathematics Graduate from Kenyatta University.
 - 💞️ I’m a fast learner, very strategic and a critical and creative thinker.
 - Portfolio: https://peaceful-eclair-5c5120.netlify.app/

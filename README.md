@@ -2,8 +2,8 @@
 - 👀 I’m a | Data Analyst | Project Manager
 - 🌱 I’m a Statistics & Applied Mathematics Graduate from Kenyatta University.
 - 💞️ I’m a fast learner, very strategic and a critical and creative thinker.
-- Portfolio: https://peaceful-eclair-5c5120.netlify.app/
-- 📫 How to reach me jeremynjonge@protonmail.com
+- Portfolio: https://njonge.com/
+- 📫 How to reach me njongeconsulting@gmail.com
 
 <!---
 JeremyNjonge/JeremyNjonge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
